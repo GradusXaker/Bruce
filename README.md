@@ -123,3 +123,12 @@ esptool.py --port /dev/ttyACM0 write_flash 0x00000 Bruce-<device>.bin
 `Bruce` — инструмент для исследовательских, учебных и авторизованных задач в области информационной безопасности, поставляемый по лицензии `AGPL`.
 
 Используйте прошивку только в рамках закона и только на системах, устройствах и сетях, для которых у вас есть явное разрешение. Любое несанкционированное или вредоносное применение запрещено. Разработчики не несут ответственности за неправильное использование. Все действия вы выполняете на свой риск.
+
+## контакты
+
+<p>
+  <a href="https://github.com/GradusXaker"><img src="https://img.shields.io/badge/GitHub-GradusXaker-111827?style=flat-square&logo=github&logoColor=22C55E" alt="GitHub" /></a>
+  <a href="https://vk.com/gradus_xaker"><img src="https://img.shields.io/badge/VK-gradus__xaker-111827?style=flat-square&logo=vk&logoColor=22C55E" alt="VK" /></a>
+  <a href="mailto:gradus_xaker@mail.ru"><img src="https://img.shields.io/badge/email-write-111827?style=flat-square&logo=gmail&logoColor=22C55E" alt="Email" /></a>
+</p>
+
