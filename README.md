@@ -1,10 +1,26 @@
-![Bruce Main Menu](./media/pictures/bruce_banner.jpg)
+<div align="center">
+  <img src="./media/pictures/bruce_banner.jpg" alt="Bruce banner" width="100%" />
 
-# Bruce
+  <h1>Bruce</h1>
+  <p><strong>Кибер-прошивка для ESP32 и M5Stack.</strong> Offensive tooling, аппаратные эксперименты и универсальная платформа для совместимых устройств.</p>
 
-`Bruce` — это многофункциональная прошивка для `ESP32`, ориентированная на аппаратные эксперименты, исследование протоколов, Red Team-задачи и работу с устройствами `M5Stack`.
+  <p>
+    <img src="https://img.shields.io/badge/ESP32-firmware-111827?style=for-the-badge&logo=espressif&logoColor=22C55E" alt="ESP32 firmware" />
+    <img src="https://img.shields.io/badge/M5Stack-supported-111827?style=for-the-badge&logoColor=22C55E" alt="M5Stack supported" />
+    <img src="https://img.shields.io/badge/Cardputer-ready-111827?style=for-the-badge&logoColor=22C55E" alt="Cardputer ready" />
+    <img src="https://img.shields.io/badge/red-team-tooling-22C55E?style=for-the-badge&labelColor=0B1220" alt="Red team tooling" />
+  </p>
+</div>
 
-Прошивка хорошо работает с `Cardputer`, `M5Stick`, `M5Core`, `T-Deck`, `T-Embed` и рядом других совместимых устройств.
+```text
+> firmware: Bruce
+> focus: wifi / ble / rf / rfid / ir / nrf24
+> mission: flexible offensive and embedded experimentation on ESP32 devices
+```
+
+## обзор
+
+`Bruce` — это универсальная прошивка для `ESP32`, заточенная под исследование протоколов, Red Team-задачи и практическую работу с линейкой `M5Stack` и похожими устройствами.
 
 ## Установка
 
